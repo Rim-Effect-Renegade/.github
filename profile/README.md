@@ -29,4 +29,4 @@ You can find it right here!
 - [Rim-Effect: Legacy](https://github.com/Rim-Effect-Legacy) - Humanoid Alien Races 2.0 based original, unchanged and maintained as is.
 
 ### Where can you find news about the Rim-Effect mods?
-All Rim-Effect information I post will be done via entirely free posts on [Patreon](https://www.patreon.com/neronix17), as I am just maintaining I do not feel it would be right to paywall those posts.
+All Rim-Effect information I post will be done via entirely free posts on [Patreon](https://www.patreon.com/neronix17), as I am just maintaining I do not feel it would be right to paywall those posts. You can also use Bluesky, where an account has been set up specifically for any Rim-Effect information [right here](https://bsky.app/profile/rimeffect.bsky.social).
