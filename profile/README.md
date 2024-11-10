@@ -2,9 +2,13 @@
 This is a fork of the original Rim-Effect tailored to my specific tastes, there's a lot of little changes but the biggest ones you're likely to notice are:
 - Biotech is used for races instead of Humanoid Alien Races.
 - Asimov is used for the mechs instead of VEF platforms.
-- Extra content.
+- Reworked content in existing modules, such as previously fixed colour clothes now being recolourable.
+- Additional modules for entirely new content, such as Turians & Gangs or Quarians & Geth.
 
 I'd recommend looking at both this and the original, in-game, and give them a trial run, see which version you prefer!
+
+### Will the additional modules in Renegade have a Legacy version made?!
+As of writing, that is a hard no. I'm already stretching myself thin maintaining two versions of the original content as it is, I do not have time left in this world to extend both to a suitable quality. I'm not ruling out the possiblity of working with someone to make it happen, but as of now that is not on the table.
 
 ### Issues
 You can submit a ticket on any of the mods if you have any issues. Make sure that:
